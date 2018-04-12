@@ -11,7 +11,7 @@ Tiny Express starter in Typescript using Gulp compilation.
     /src                Source folder
         app.ts          App main entry
         config.ts       App config data
-        /public         Public folder (fixed route)
+        /public         Public folder (static route)
         /routes         Routes folder
             index.ts    Main route
 ```
