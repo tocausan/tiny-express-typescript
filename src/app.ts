@@ -57,6 +57,6 @@ new class {
                 throw error;
         }
     }
-}
+};
 
 
