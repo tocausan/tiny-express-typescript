@@ -1,5 +1,5 @@
 [![Build](https://img.shields.io/badge/build-passing-green.svg?style=flat)](http://tocausan.github.io)
-[![Build](https://img.shields.io/badge/Build-On_air-green.svg?style=flat)](http://tocausan.github.io)
+[![Build](https://img.shields.io/badge/build-passing-green.svg?style=flat)](http://tocausan.github.io)
 # Tiny Express Typescript
 
 Tiny Express starter in Typescript using Gulp compilation.
